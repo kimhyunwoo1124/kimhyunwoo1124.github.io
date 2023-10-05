@@ -12,4 +12,4 @@
 <br><br>
 
 # [관련 이미지 & 동영상]  
-#  ● <img src = "./img/bh_01.jpg">
+#  ● <img src = ",/bh_01.jpgbh_01.jpg">
