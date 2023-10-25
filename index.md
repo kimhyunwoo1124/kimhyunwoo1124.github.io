@@ -416,12 +416,13 @@ PC와 모바일에서 사용할 수 있도록 개발할 예정입니다. PC판�
 1-39 최종본 제작을 마무리 하고 오류 및 수정사항을 재검토 합니다.  
 
 ## 7-2. 시간별 흐름도 flowchart <a name = '72'></a>  
-<img src="./img/플로우차드 (1).png" height="600">  
+<img src="./img/플로우차트.png" height="600">  
 
 ## 7-3. 키보드 이벤트에 대한 흐름도 <a name = '73'></a>  
 <img src="./img/키보드차트.png" height="600">  
 
-## 7-4. 용어정리 <a name = '74'></a>
+## 7-4. 용어정리 <a name = '74'></a>  
+<img src="./img/용어정리.png" height="600">  
 
 <br>
 
