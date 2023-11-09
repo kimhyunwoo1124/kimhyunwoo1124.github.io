@@ -51,10 +51,12 @@
 <br><br>
 
 # [관련 이미지와 동영상]  <a name='2'></a>
-#  ● <img src = "./img/bh_01.jpg"> <a name='3'></a>
+#  ● <img src = "./img/bh_01.jpg"> <a name='3'></a>  
+#  ● <img src = "./img/bh_01.jpg">
 <br>  
 
-# [대표이미지] <a name='3'></a>
+# [대표이미지] <a name='3'></a>  
+#  ● <img src = "./img/대표.jpg">
 
 <br>
 
