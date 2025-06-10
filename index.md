@@ -32,12 +32,12 @@
 <br><br>
 
 # [모티브 이미지]  <a name='2'></a>
-#  ● <img src = "./img/bh_01.jpg"> <a name='3'></a>  
-#  ● <img src = "./img/사진2.jpg">
+#  ● <img src = "./img/모티브1.png"> <a name='3'></a>  
+#  ● <img src = "./img/모티브2.png">
 <br>  
 
 # [대표이미지] <a name='3'></a>  
-#  ● <img src = "./img/대표.jpg">
+#  ● <img src = "./img/maingame.png">
 
 <br>
 
@@ -86,15 +86,15 @@
 
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|1|주인공|<img src="./img/주인공.png" height="300">|
-|2|가라테 선수|<img src="./img/고블린 전사.png" height="300">|
-|3|복싱 선수|<img src="./img/고블린 궁수.png" height="300">|
-|4|UFC 선수|<img src="./img/고블린 친위대.png" height="300">|
-|5|노트1|<img src="./img/고블린 왕.png" height="300">|
-|6|노트2|<img src="./img/슬라임.png" height="300">|
-|7|노트3|<img src="./img/석상골렘.png" height="300">|
-|8|노튿4|<img src="./img/수호자석상.png" height="300">|
-|9|히트박스|<img src="./img/강철검.png" height="300">|
+|1|주인공|<img src="./img/player.png" height="300">|
+|2|가라테 선수|<img src="./img/en1.png" height="300">|
+|3|복싱 선수|<img src="./img/en2.png" height="300">|
+|4|UFC 선수|<img src="./img/en3.png" height="300">|
+|5|노트1|<img src="./img/note1.png" height="300">|
+|6|노트2|<img src="./img/note2.png" height="300">|
+|7|노트3|<img src="./img/note3.png" height="300">|
+|8|노튿4|<img src="./img/note4.png" height="300">|
+|9|히트박스|<img src="./img/hitbox.png" height="300">|
 |10|체력바|<img src="./img/강철메이스.png" height="300">|
 |11|맵1|<img src="./img/회복물약.png" height="300">|
 |12|맵2|<img src="./img/방패.png" height="300">|
