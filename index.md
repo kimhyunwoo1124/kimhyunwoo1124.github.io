@@ -90,15 +90,15 @@
 |2|가라테 선수|<img src="./img/en1.png" height="300">|
 |3|복싱 선수|<img src="./img/en2.png" height="300">|
 |4|UFC 선수|<img src="./img/en3.png" height="300">|
-|5|노트1|<img src="./img/note1.png" height="300">|
+|5|노트1|<img src="./img/note1 (1).png" height="300">|
 |6|노트2|<img src="./img/note2.png" height="300">|
 |7|노트3|<img src="./img/note3.png" height="300">|
-|8|노튿4|<img src="./img/note4.png" height="300">|
+|8|노트4|<img src="./img/note4.png" height="300">|
 |9|히트박스|<img src="./img/hitbox.png" height="300">|
-|10|체력바|<img src="./img/강철메이스.png" height="300">|
-|11|맵1|<img src="./img/회복물약.png" height="300">|
-|12|맵2|<img src="./img/방패.png" height="300">|
-|13|맵3|<img src="./img/쇠뇌.png" width="500">|
+|10|체력바|<img src="./img/HP.png" height="300">|
+|11|맵1|<img src="./img/map1.png" height="300">|
+|12|맵2|<img src="./img/map2.png" height="300">|
+|13|맵3|<img src="./img/map3.png" width="500">|
 
 
 <br>
